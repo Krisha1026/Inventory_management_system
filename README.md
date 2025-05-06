@@ -8,7 +8,7 @@
 ## 🌟 Overview
 A Java OOP application designed for "The Little Bag Shop" to automate their transaction process and manage inventory. The system features two user levels with different functionalities.
 
-![System Screenshot](https://via.placeholder.com/800x400?text=The+Little+Bag+Shop+Inventory+System)
+![System Screenshot](https://github.com/Krisha1026/Inventory_management_system/blob/cfc33428dda3e90f1f5c618df818a56900ab41e3/1.png)
 
 ## ✨ Features
 
