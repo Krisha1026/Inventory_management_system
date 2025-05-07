@@ -33,6 +33,7 @@ A Java OOP application designed for "The Little Bag Shop" to automate their tran
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Java JDK 17+
 - NetBeans IDE (recommended)
 
